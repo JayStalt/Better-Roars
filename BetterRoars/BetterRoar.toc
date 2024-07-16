@@ -1,0 +1,7 @@
+## Interface: 100105
+## Title: Bear Form Sound Changer
+## Notes: Replaces sounds for druid abilities in bear form.
+## Author: Jamison Stalter
+## Version: 1.0
+
+BearFormSoundChanger.lua
